@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/BackgroundColor"
+    tools:context=".ui.Authentication.RegistrationActivity">
+    <ImageView
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        app:srcCompat = "@drawable/close"
+        android:id = "@+id/imageview_registration_close"
+        android:contentDescription = "@string/registration_closeregisterpage"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.042"
+        app:layout_constraintVertical_bias = "0.025" />
+    <ImageView
+        android:layout_width = "273dp"
+        android:layout_height = "139dp" app:srcCompat = "@drawable/logo_1"
+        android:id = "@+id/imageview_registration_logo"
+        android:contentDescription = "@string/login_logo"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintVertical_bias = "0.151" />
+    <EditText
+        android:layout_width = "wrap_content"
+        android:layout_height = "50dp"
+        android:hint = "@string/login_emailhint"
+        android:background = "@drawable/login_inputs"
+        android:inputType = "textEmailAddress"
+        android:ems = "14"
+        android:id = "@+id/edittext_registration_email"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.495"
+        app:layout_constraintVertical_bias = "0.365" />
+
+    <TextView
+        android:id="@+id/textview_registration_button"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@drawable/login_button"
+        android:ems="14"
+        android:gravity="center"
+        android:text="@string/registration_registerhint"
+        android:textColor="@color/BackgroundColor"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.456" />
+
+    <TextView
+        android:id="@+id/textview_registration_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/all_cancel"
+        android:textColor="@color/CommentViewTextColor"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.542" />
+    <TextView
+        android:text = "@string/login_facebooktext"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:drawableLeft = "@drawable/facebook"
+        android:drawableStart = "@drawable/facebook"
+        android:textSize = "18sp"
+        android:gravity="center"
+        android:id = "@+id/textview_registration_facebooktext"
+        android:textColor = "@color/colorFB"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintVertical_bias = "0.818" />
+</androidx.constraintlayout.widget.ConstraintLayout>

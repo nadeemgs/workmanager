@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HorizontalScrollView android:layout_width = "wrap_content"
+                      android:layout_height = "wrap_content"
+                      android:scrollbars="none"
+                      android:layout_gravity = "bottom" xmlns:android = "http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width = "wrap_content" android:layout_height = "wrap_content"
+                  android:orientation = "horizontal">
+        <ImageView
+                android:src = "@drawable/cat700000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color"
+                android:background="@drawable/history_icons_style"
+        />
+        
+        <ImageView
+                android:src = "@drawable/cat200000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+        
+        <ImageView
+                android:src = "@drawable/cat100000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+        <ImageView
+                android:src = "@drawable/cat400000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+        <ImageView
+                android:src = "@drawable/cat600000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+        <ImageView
+                android:src = "@drawable/cat500000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+        <ImageView
+                android:src = "@drawable/cat300000"
+                android:layout_width = "70dp"
+                android:layout_height = "70dp"
+                android:layout_gravity = "center"
+                android:layout_margin="4dp"
+                android:tint="@color/history_text_color" android:background="@drawable/history_icons_style" />
+    </LinearLayout>
+
+</HorizontalScrollView>

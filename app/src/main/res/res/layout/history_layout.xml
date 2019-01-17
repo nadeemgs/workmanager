@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:background="@color/historyBackground">
+    
+    <TextView
+            android:text = "@string/history_title"
+            android:textColor="@color/HistoryListHeaderColor"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content" android:id = "@+id/textview_history_title" />
+    
+    <include layout = "@layout/history_horizontal_scroll" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

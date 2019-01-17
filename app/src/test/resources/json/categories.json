@@ -1,0 +1,8506 @@
+[
+  {
+    "pmId": 100000,
+    "name": "Getränke",
+    "parentCategory": null,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100001,
+    "name": "Alkoholische Getränke",
+    "parentCategory": 100000,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": []
+  },
+  {
+    "pmId": 100002,
+    "name": "Bier",
+    "parentCategory": 100001,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100003,
+    "name": "Pils",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100004,
+    "name": "Export",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100005,
+    "name": "Kölsch",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100006,
+    "name": "Schwarzbier",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100007,
+    "name": "Alt",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100008,
+    "name": "Lager",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100009,
+    "name": "Weizen",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100011,
+    "name": "Bier-Mixgetränke",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100012,
+    "name": "Malzbier",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100013,
+    "name": "Spezialitäten",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100014,
+    "name": "Bock- & Dunkelbier",
+    "parentCategory": 100002,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20010,
+        "comment": null,
+        "shortcut": "barrel",
+        "plural": "Fass"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20007,
+        "comment": null,
+        "shortcut": "sixpack",
+        "plural": "Sixpacks"
+      }
+    ]
+  },
+  {
+    "pmId": 100015,
+    "name": "Wein & Sekt",
+    "parentCategory": 100001,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100016,
+    "name": "Wein",
+    "parentCategory": 100015,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100017,
+    "name": "Weißwein",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100018,
+    "name": "Rotwein",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100019,
+    "name": "Roséwein",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100020,
+    "name": "Portwein & Sherry",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100021,
+    "name": "Fruchtwein & Bowle",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100022,
+    "name": "Sekt & Schaumwein",
+    "parentCategory": 100015,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100023,
+    "name": "Cava",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100024,
+    "name": "Champagner",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100025,
+    "name": "Crémant",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100026,
+    "name": "Perlwein",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100027,
+    "name": "Sekt",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100028,
+    "name": "Spumante",
+    "parentCategory": 100022,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100029,
+    "name": "Spirituosen",
+    "parentCategory": 100001,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100030,
+    "name": "Zuckerrohrbrand / Cachaca",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100032,
+    "name": "Cocktails & Mixgetränke",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100033,
+    "name": "Kurze",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100034,
+    "name": "Liköre",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100035,
+    "name": "Vermouth",
+    "parentCategory": 100016,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      }
+    ]
+  },
+  {
+    "pmId": 100041,
+    "name": "Aquavit & Absinth",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100042,
+    "name": "Gin, Genever",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100043,
+    "name": "Korn",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100044,
+    "name": "Obst- & Kräuterbrände",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100045,
+    "name": "Rum",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100046,
+    "name": "Tequila",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100047,
+    "name": "Weinbrand",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100048,
+    "name": "Calvados",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100049,
+    "name": "Aperitif",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100050,
+    "name": "Whisky",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100051,
+    "name": "Wodka",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100052,
+    "name": "Eingelegte Früchte",
+    "parentCategory": 100029,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 100053,
+    "name": "Alkoholfreie Getränke",
+    "parentCategory": 100000,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100054,
+    "name": "Wasser",
+    "parentCategory": 100053,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100060,
+    "name": "Sirupe",
+    "parentCategory": 100053,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      }
+    ]
+  },
+  {
+    "pmId": 100065,
+    "name": "Erfrischungsgetränke",
+    "parentCategory": 100053,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      }
+    ]
+  },
+  {
+    "pmId": 100072,
+    "name": "Säfte & Nektare",
+    "parentCategory": 100053,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100073,
+    "name": "Fruchtsäfte",
+    "parentCategory": 100072,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100074,
+    "name": "Gemüsesäfte",
+    "parentCategory": 100072,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      }
+    ]
+  },
+  {
+    "pmId": 100075,
+    "name": "Smoothies",
+    "parentCategory": 100053,
+    "upperCategory": 100000,
+    "defaultColor": "a7a7a7",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      }
+    ]
+  },
+  {
+    "pmId": 200000,
+    "name": "Lebensmittel / Nährstoffe",
+    "parentCategory": null,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 200001,
+    "name": "Süßwaren & Knabberein",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": []
+  },
+  {
+    "pmId": 200002,
+    "name": "Schokolade",
+    "parentCategory": 200001,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200013,
+    "name": "Süßgebäck",
+    "parentCategory": 200001,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200036,
+    "name": "Bonbons",
+    "parentCategory": 200001,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200052,
+    "name": "Sonstige Süßigkeiten",
+    "parentCategory": 200001,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200062,
+    "name": "Salzgebäck",
+    "parentCategory": 200001,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200073,
+    "name": "Brot & Cerealien",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200074,
+    "name": "Baquette & Brötchen",
+    "parentCategory": 200073,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200089,
+    "name": "Brot",
+    "parentCategory": 200073,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200099,
+    "name": "Aufbackwaren",
+    "parentCategory": 200073,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200103,
+    "name": "Müsli & Cerealien",
+    "parentCategory": 200073,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200111,
+    "name": "Getreide, Mehl  & Backwaren",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200112,
+    "name": "Kuchen, Böden & Waffeln",
+    "parentCategory": 200111,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200118,
+    "name": "Backmischungen",
+    "parentCategory": 200111,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200122,
+    "name": "Brotbackmischungen",
+    "parentCategory": 200111,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200125,
+    "name": "Backzutaten",
+    "parentCategory": 200111,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200126,
+    "name": "Hefe & Backpulver",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200130,
+    "name": "Aromen",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200141,
+    "name": "Marzipan, Schokolade & Tortenguss",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200148,
+    "name": "Backdekoration",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200154,
+    "name": "Zucker & Zuckerersatz",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200170,
+    "name": "Nüsse, Mandeln & Kokosraspeln",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200174,
+    "name": "Getreide",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200209,
+    "name": "Mehl & Saucenbinder",
+    "parentCategory": 200125,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200217,
+    "name": "Brotaufstrich",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200218,
+    "name": "Fruchtaufstriche",
+    "parentCategory": 200217,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200223,
+    "name": "Honig",
+    "parentCategory": 200217,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200234,
+    "name": "Schokocreme",
+    "parentCategory": 200217,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200235,
+    "name": "Erdnusscreme",
+    "parentCategory": 200217,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200244,
+    "name": "Kaffee, Kakao & Tee",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200245,
+    "name": "Kaffee",
+    "parentCategory": 200244,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200262,
+    "name": "Kakao",
+    "parentCategory": 200244,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200265,
+    "name": "Kondensmilch",
+    "parentCategory": 200244,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200269,
+    "name": "Tee",
+    "parentCategory": 200244,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200294,
+    "name": "Nudeln, Kartoffelprodukte & Reis",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200295,
+    "name": "Nudeln",
+    "parentCategory": 200294,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200309,
+    "name": "Kartoffelprodukte",
+    "parentCategory": 200294,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200316,
+    "name": "Reis",
+    "parentCategory": 200294,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200330,
+    "name": "Hülsenfrüchte",
+    "parentCategory": 200294,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200338,
+    "name": "Saucen",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200339,
+    "name": "Nudelsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200340,
+    "name": "Reissaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200341,
+    "name": "Pesto",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200342,
+    "name": "Kartoffelsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200343,
+    "name": "Dessertsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200348,
+    "name": "Fertigsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200357,
+    "name": "Chutney & Relish",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200358,
+    "name": "Taco & Salsa Dips",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200359,
+    "name": "Ketchup",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      }
+    ]
+  },
+  {
+    "pmId": 200360,
+    "name": "Würzsaucen & Pasten",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 200366,
+    "name": "Grillsaucen & Fleischsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      }
+    ]
+  },
+  {
+    "pmId": 200378,
+    "name": "Feinkostsaucen",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200390,
+    "name": "Senf",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200401,
+    "name": "Mayonnaise & Remoulade",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200404,
+    "name": "Dressing & Croutons",
+    "parentCategory": 200338,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200408,
+    "name": "Konserven",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200409,
+    "name": "Gemüsekonserven",
+    "parentCategory": 200408,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200445,
+    "name": "Obstkonserven",
+    "parentCategory": 200408,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200468,
+    "name": "Fleisch- & Wurstkonserven",
+    "parentCategory": 200408,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200469,
+    "name": "Brühwürste",
+    "parentCategory": 200468,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200470,
+    "name": "Fleischkonserven",
+    "parentCategory": 200468,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200471,
+    "name": "Pasteten",
+    "parentCategory": 200468,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200472,
+    "name": "Spezialitäten",
+    "parentCategory": 200468,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      }
+    ]
+  },
+  {
+    "pmId": 200473,
+    "name": "Dessert & süße Speisen",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 200474,
+    "name": "Cremepulver",
+    "parentCategory": 200473,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200482,
+    "name": "Grießbrei & Milchreis",
+    "parentCategory": 200473,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200486,
+    "name": "Grütze, Götterspeise & Kaltschale",
+    "parentCategory": 200473,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200491,
+    "name": "Puddingpulver",
+    "parentCategory": 200473,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200496,
+    "name": "Dessert & Süßspeisen",
+    "parentCategory": 200473,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200497,
+    "name": "Fertiggerichte",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200505,
+    "name": "Instant-produkte",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200506,
+    "name": "Nudel- & Reisgerichte",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200507,
+    "name": "Suppen & Eintöpfe",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200508,
+    "name": "Asia-Gerichte",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200510,
+    "name": "Fix für Fleisch",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200511,
+    "name": "Fix für Fisch",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200512,
+    "name": "Fix für Gemüse",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200513,
+    "name": "Fix für Pasta",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200514,
+    "name": "Instant Saucen",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200515,
+    "name": "Würzmischungen",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200518,
+    "name": "Suppeneinlagen",
+    "parentCategory": 200505,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200534,
+    "name": "Essig, Öl & Gewürze",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200535,
+    "name": "Salz & Gewürze",
+    "parentCategory": 200534,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200536,
+    "name": "Salz",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200541,
+    "name": "Pfeffer",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200547,
+    "name": "Gewürze",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200585,
+    "name": "Würzmischungen",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200620,
+    "name": "Essig",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200621,
+    "name": "Balsamico",
+    "parentCategory": 200620,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200622,
+    "name": "Spezialitäten",
+    "parentCategory": 200620,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200623,
+    "name": "Wein- & Branntweinessig",
+    "parentCategory": 200620,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200624,
+    "name": "Speiseöl",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      }
+    ]
+  },
+  {
+    "pmId": 200647,
+    "name": "Brühe & Fonds",
+    "parentCategory": 200535,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200650,
+    "name": "Babynahrung",
+    "parentCategory": 200000,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200651,
+    "name": "Breie & Cerealien",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200652,
+    "name": "Desserts & Snacks",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200653,
+    "name": "Früchte & Getreide",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200654,
+    "name": "Fruchtsäfte",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200655,
+    "name": "Gemüse & Menüs",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200656,
+    "name": "Milchnahrung",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200657,
+    "name": "Spezialnahrung",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200658,
+    "name": "Trinkmahlzeit",
+    "parentCategory": 200650,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200660,
+    "name": "Katjes",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200661,
+    "name": "Haribo",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200662,
+    "name": "Granini",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200663,
+    "name": "Sallos",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200665,
+    "name": "Hustelinchen",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200666,
+    "name": "Ahoj",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200667,
+    "name": "Wick",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200668,
+    "name": "Villosa",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200669,
+    "name": "Gletschereis",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 200670,
+    "name": "Frigeo",
+    "parentCategory": 200036,
+    "upperCategory": 200000,
+    "defaultColor": "f3ad87",
+    "measurements": [
+      {
+        "pmId": 20015,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Tüten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 300000,
+    "name": "Obst & Gemüse",
+    "parentCategory": null,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20017,
+        "comment": null,
+        "shortcut": "bunch",
+        "plural": "Bünde"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20014,
+        "comment": null,
+        "shortcut": "sack",
+        "plural": "Säcke"
+      }
+    ]
+  },
+  {
+    "pmId": 300001,
+    "name": "Obst",
+    "parentCategory": 300000,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300002,
+    "name": "Kernobst",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300017,
+    "name": "Steinobst",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20006,
+        "comment": null,
+        "shortcut": "crate",
+        "plural": "Kisten"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300038,
+    "name": "Beerenobst",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300091,
+    "name": "Südfrüchte",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300095,
+    "name": "Zitrusfrüchte",
+    "parentCategory": 300091,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300115,
+    "name": "Exotische Früchte",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300216,
+    "name": "Melonen",
+    "parentCategory": 300001,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300225,
+    "name": "Gemüse",
+    "parentCategory": 300000,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300226,
+    "name": "Blattgemüse",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300253,
+    "name": "Kohlgemüse",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300287,
+    "name": "Fruchtgemüse",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300296,
+    "name": "Kürbisgewächs",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 300304,
+    "name": "Wurzelgemüse",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300324,
+    "name": "Zwiebelgemüse",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300338,
+    "name": "Kräuter",
+    "parentCategory": 300225,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": [
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20017,
+        "comment": null,
+        "shortcut": "bunch",
+        "plural": "Bünde"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20016,
+        "comment": null,
+        "shortcut": "net",
+        "plural": "Netze"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20014,
+        "comment": null,
+        "shortcut": "sack",
+        "plural": "Säcke"
+      }
+    ]
+  },
+  {
+    "pmId": 300353,
+    "name": "Trockenfrüchte & Nüsse",
+    "parentCategory": 300000,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300354,
+    "name": "Trockenobst",
+    "parentCategory": 300353,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300361,
+    "name": "Nüsse",
+    "parentCategory": 300353,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300367,
+    "name": "Studentenfutter",
+    "parentCategory": 300353,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 300368,
+    "name": "Pilze",
+    "parentCategory": 300000,
+    "upperCategory": 300000,
+    "defaultColor": "a2d99b",
+    "measurements": []
+  },
+  {
+    "pmId": 400000,
+    "name": "Frischetheke / Kühlregal",
+    "parentCategory": null,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 400001,
+    "name": "Käse",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20021,
+        "comment": null,
+        "shortcut": "carton",
+        "plural": "Karton"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20012,
+        "comment": null,
+        "shortcut": "pack",
+        "plural": "Pakete"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 400002,
+    "name": "Feta & Mozzarella",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400005,
+    "name": "Schmelzkäse & Raclettekäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400019,
+    "name": "Frischkäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400025,
+    "name": "Weichkäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400035,
+    "name": "Schnittkäse & Halbhartkäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 400057,
+    "name": "Hartkäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 400065,
+    "name": "Sauermilchkäse",
+    "parentCategory": 400001,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400066,
+    "name": "Brotaufstrich",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400071,
+    "name": "Fertigsalate",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      }
+    ]
+  },
+  {
+    "pmId": 400082,
+    "name": "Eier",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 400086,
+    "name": "Milchprodukte",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": []
+  },
+  {
+    "pmId": 400087,
+    "name": "Milch & Drinks",
+    "parentCategory": 400086,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20002,
+        "comment": null,
+        "shortcut": "l",
+        "plural": "l"
+      },
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400099,
+    "name": "Sahne & Rahm",
+    "parentCategory": 400086,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400108,
+    "name": "Joghurt, Dessert & Quark",
+    "parentCategory": 400086,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": []
+  },
+  {
+    "pmId": 400109,
+    "name": "Joghurt",
+    "parentCategory": 400108,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400121,
+    "name": "Quark",
+    "parentCategory": 400108,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400125,
+    "name": "Dessert & Snack",
+    "parentCategory": 400108,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400138,
+    "name": "Dips & Tzaziki",
+    "parentCategory": 400108,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20008,
+        "comment": null,
+        "shortcut": "jar",
+        "plural": "Gläser"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400143,
+    "name": "Butter & Margarine",
+    "parentCategory": 400086,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400152,
+    "name": "Fleisch- & Wurstwaren",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      }
+    ]
+  },
+  {
+    "pmId": 400153,
+    "name": "Fleisch",
+    "parentCategory": 400152,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400159,
+    "name": "Schinken & Braten",
+    "parentCategory": 400152,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400168,
+    "name": "Wurstwaren",
+    "parentCategory": 400152,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400188,
+    "name": "Fleisch- & Wurstersatz",
+    "parentCategory": 400152,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400189,
+    "name": "Fisch & Meeresfrüchte",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": []
+  },
+  {
+    "pmId": 400190,
+    "name": "Feinkost",
+    "parentCategory": 400189,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      }
+    ]
+  },
+  {
+    "pmId": 400199,
+    "name": "Fisch",
+    "parentCategory": 400189,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 400200,
+    "name": "Nudeln",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 400211,
+    "name": "Fertiggerichte",
+    "parentCategory": 400000,
+    "upperCategory": 400000,
+    "defaultColor": "8bcbe3",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500000,
+    "name": "Tiefkühlware",
+    "parentCategory": null,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 500001,
+    "name": "Kartoffelprodukte",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500007,
+    "name": "Gemüse & Kräuter",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500028,
+    "name": "Obst",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500034,
+    "name": "Pizza & Fertiggerichte",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500042,
+    "name": "Fleisch,Geflügel & Wild",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 500048,
+    "name": "Fisch & Meeresfrüchte",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500063,
+    "name": "Back- und Teigwaren",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 500066,
+    "name": "Kuchen & Torte",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 500069,
+    "name": "Eis & Desserts",
+    "parentCategory": 500000,
+    "upperCategory": 500000,
+    "defaultColor": "6a89b9",
+    "measurements": [
+      {
+        "pmId": 20009,
+        "comment": null,
+        "shortcut": "cup",
+        "plural": "Becher"
+      },
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600000,
+    "name": "Haushalt & Kosmetik",
+    "parentCategory": null,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20012,
+        "comment": null,
+        "shortcut": "pack",
+        "plural": "Pakete"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600001,
+    "name": "Baby",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600002,
+    "name": "Windeln & Zubehör",
+    "parentCategory": 600001,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600008,
+    "name": "Babypflege",
+    "parentCategory": 600001,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600012,
+    "name": "Flaschen & Sauger",
+    "parentCategory": 600001,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600017,
+    "name": "Schwangerschaft & Stillzeit",
+    "parentCategory": 600001,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600020,
+    "name": "Körperpflege",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600021,
+    "name": "Körper",
+    "parentCategory": 600020,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600022,
+    "name": "Sonnenschutz",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600028,
+    "name": "Waschlotion",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600029,
+    "name": "Seife",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600030,
+    "name": "Dusche",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600031,
+    "name": "Bad & Wellness",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600037,
+    "name": "Hautpflege",
+    "parentCategory": 600021,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600038,
+    "name": "Körperlotion & -Creme",
+    "parentCategory": 600037,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600039,
+    "name": "Hand & Nagelpflege",
+    "parentCategory": 600037,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600040,
+    "name": "Fußpflege",
+    "parentCategory": 600037,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600041,
+    "name": "Insektenabwehr",
+    "parentCategory": 600037,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600044,
+    "name": "Deodorant",
+    "parentCategory": 600037,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600049,
+    "name": "Haare & Haarentfernung",
+    "parentCategory": 600020,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600050,
+    "name": "Haarpflege",
+    "parentCategory": 600049,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600051,
+    "name": "Shampoo",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600052,
+    "name": "Haarspülung",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600053,
+    "name": "Haarkuren",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600054,
+    "name": "Haarspray & Haarlack",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600055,
+    "name": "Schaum, Gele, Puder & Wachs",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600056,
+    "name": "Haar-Coloration",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600059,
+    "name": "Zink für die Haare",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600060,
+    "name": "Hitzeschutz & Pflege",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600061,
+    "name": "Haartrockner & Haarstyling",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600067,
+    "name": "Haarpflege für Kinder",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600068,
+    "name": "Bürsten & Kämme",
+    "parentCategory": 600050,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600070,
+    "name": "Haarentfernung",
+    "parentCategory": 600049,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600089,
+    "name": "Gesichtspflege",
+    "parentCategory": 600020,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600090,
+    "name": "Augenpflege",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600091,
+    "name": "Lippenpflege",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600092,
+    "name": "Reinigung",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600098,
+    "name": "Tagespflege",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600099,
+    "name": "Nachtpflege",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600100,
+    "name": "Masken",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20003,
+        "comment": null,
+        "shortcut": "ml",
+        "plural": "ml"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600103,
+    "name": "Kapseln",
+    "parentCategory": 600089,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600104,
+    "name": "Mund- & Zahnhygiene",
+    "parentCategory": 600020,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600105,
+    "name": "Zahnpasta",
+    "parentCategory": 600104,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600108,
+    "name": "Zahnbürsten",
+    "parentCategory": 600104,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600114,
+    "name": "Zahnseide & andere Zahnpflege",
+    "parentCategory": 600104,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600118,
+    "name": "Mundwasser, -spülungen &-sprays",
+    "parentCategory": 600104,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600119,
+    "name": "Düfte",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600120,
+    "name": "Parfüm",
+    "parentCategory": 600119,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      }
+    ]
+  },
+  {
+    "pmId": 600124,
+    "name": "Körperspray",
+    "parentCategory": 600119,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      }
+    ]
+  },
+  {
+    "pmId": 600128,
+    "name": "Sex toys, Verhüttungs- & Gleitmittel",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600132,
+    "name": "Kosmetik",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600133,
+    "name": "Augen",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600138,
+    "name": "Lippen",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600142,
+    "name": "Haut",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600146,
+    "name": "Nägel",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600152,
+    "name": "Abschminkzeugs",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600156,
+    "name": "Zubehör",
+    "parentCategory": 600132,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600160,
+    "name": "Toilettenartikel",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600161,
+    "name": "Hygiene",
+    "parentCategory": 600160,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600167,
+    "name": "Toilettenpapier",
+    "parentCategory": 600160,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600170,
+    "name": "Taschentücher",
+    "parentCategory": 600160,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600171,
+    "name": "Wattestäbchen",
+    "parentCategory": 600160,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      }
+    ]
+  },
+  {
+    "pmId": 600172,
+    "name": "Küchenrolle",
+    "parentCategory": 600160,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600173,
+    "name": "Drogerie",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600174,
+    "name": "Wundmittel & Pflaster",
+    "parentCategory": 600173,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600177,
+    "name": "Kontaktlinsen & Augenpflege",
+    "parentCategory": 600173,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600178,
+    "name": "Nahrungsergänzung",
+    "parentCategory": 600173,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600179,
+    "name": "Erkältung & Grippe",
+    "parentCategory": 600173,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600180,
+    "name": "Messgeräte",
+    "parentCategory": 600173,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600184,
+    "name": "Haushaltsartikel",
+    "parentCategory": 600000,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600185,
+    "name": "Küche",
+    "parentCategory": 600184,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600186,
+    "name": "Zubehör Kochen & Backen",
+    "parentCategory": 600185,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600195,
+    "name": "Kerzen & Duftkerzen",
+    "parentCategory": 600185,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600201,
+    "name": "Servietten & Tischdecken",
+    "parentCategory": 600185,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600205,
+    "name": "Backpapier & Folien",
+    "parentCategory": 600185,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600216,
+    "name": "Filter",
+    "parentCategory": 600185,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600219,
+    "name": "Badzubehör",
+    "parentCategory": 600184,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600225,
+    "name": "Waschen & Putzen",
+    "parentCategory": 600184,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 600226,
+    "name": "Waschmittel & Textilpflege",
+    "parentCategory": 600225,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600236,
+    "name": "Entkalker & Gerätereiniger",
+    "parentCategory": 600225,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600239,
+    "name": "Haushalts- & Toilettenreiniger",
+    "parentCategory": 600225,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600258,
+    "name": "Kleiderrolle & Kleiderbügel",
+    "parentCategory": 600225,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600259,
+    "name": "Raumduft",
+    "parentCategory": 600184,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 600260,
+    "name": "Müllentsorgung",
+    "parentCategory": 600184,
+    "upperCategory": 600000,
+    "defaultColor": "e2ec83",
+    "measurements": [
+      {
+        "pmId": 20024,
+        "comment": null,
+        "shortcut": "",
+        "plural": "Runddosen"
+      },
+      {
+        "pmId": 20005,
+        "comment": null,
+        "shortcut": "bottle",
+        "plural": "Flaschen"
+      },
+      {
+        "pmId": 20025,
+        "comment": null,
+        "shortcut": "dispenser",
+        "plural": "Spender"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      },
+      {
+        "pmId": 20022,
+        "comment": null,
+        "shortcut": "tube",
+        "plural": "Tuben"
+      }
+    ]
+  },
+  {
+    "pmId": 700000,
+    "name": "Sonstiges",
+    "parentCategory": null,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": []
+  },
+  {
+    "pmId": 700001,
+    "name": "Schreibwaren",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700002,
+    "name": "Schreibgeräte",
+    "parentCategory": 700001,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700009,
+    "name": "Bürobedarf",
+    "parentCategory": 700001,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700033,
+    "name": "Party Artikel",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700043,
+    "name": "Tiere",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700076,
+    "name": "Heim & Garten",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700077,
+    "name": "Heimtextilien",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700083,
+    "name": "Dekoration",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700091,
+    "name": "Batterien & Beleuchtung",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700099,
+    "name": "Rasen",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700102,
+    "name": "Grill",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700109,
+    "name": "Outdoor & camping",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700110,
+    "name": "Steckdosen & Verlängerungen",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700111,
+    "name": "Werkzeug",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20001,
+        "comment": null,
+        "shortcut": "g",
+        "plural": "g"
+      },
+      {
+        "pmId": 20000,
+        "comment": null,
+        "shortcut": "kg",
+        "plural": "kg"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700116,
+    "name": "Mülltonnenboxen",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700117,
+    "name": "Futterhäuser",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700118,
+    "name": "Gartengeräte",
+    "parentCategory": 700076,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700119,
+    "name": "Haussicherheit",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  },
+  {
+    "pmId": 700124,
+    "name": "Tabak & Zigaretten",
+    "parentCategory": 700000,
+    "upperCategory": 700000,
+    "defaultColor": "e689a6",
+    "measurements": [
+      {
+        "pmId": 20023,
+        "comment": null,
+        "shortcut": "bag",
+        "plural": "Beutel"
+      },
+      {
+        "pmId": 20013,
+        "comment": null,
+        "shortcut": "box",
+        "plural": "Schachteln"
+      },
+      {
+        "pmId": 20004,
+        "comment": null,
+        "shortcut": "can",
+        "plural": "Dosen"
+      },
+      {
+        "pmId": 20011,
+        "comment": null,
+        "shortcut": "package",
+        "plural": "Packungen"
+      },
+      {
+        "pmId": 20018,
+        "comment": null,
+        "shortcut": "piece",
+        "plural": "Stück"
+      }
+    ]
+  }
+]

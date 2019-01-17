@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    android:background = "@color/MenuBackgroundColor"
+    android:id = "@+id/linearLayout4"
+    tools:layout_editor_absoluteY = "81dp"
+    tools:context=".ui.navigation.ListActivity"
+    android:fitsSystemWindows="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:descendantFocusability="beforeDescendants"
+    >
+
+    <ImageView
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        app:srcCompat = "@drawable/close"
+        android:id = "@+id/imageview_editlist"
+        android:contentDescription = "@string/editlist_close"
+        app:layout_constraintTop_toTopOf = "parent" app:layout_constraintStart_toStartOf = "parent"
+        android:layout_marginLeft = "16dp" android:layout_marginTop = "16dp" android:layout_marginStart = "16dp" />
+    <EditText
+        android:layout_width = "wrap_content"
+        android:layout_height = "40dp"
+        android:inputType = "textPersonName"
+        android:hint = "@string/editlist_button"
+        android:ems = "20"
+        android:gravity = "center"
+        android:textSize = "18sp"
+        android:background = "@drawable/editlist_editinput"
+        android:id = "@+id/edittext_list_input"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.498" app:layout_constraintVertical_bias = "0.259" />
+    <Button
+        android:text = "@string/editlist_button"
+        android:layout_width = "wrap_content"
+        android:layout_height = "50dp"
+        android:id = "@+id/button_list_edit"
+        style = "?android:attr/borderlessButtonStyle"
+        android:textColor = "@color/BackgroundColor"
+        android:textStyle = "bold" android:textSize = "18sp"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintVertical_bias = "0.415" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

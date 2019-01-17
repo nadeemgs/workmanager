@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2017 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+<resources>
+    <color name="BackgroundColor">#f4f9e1</color>
+    <!--<color name="TitleTextColor">rgba(0.737,0.745,0.702,1)</color>-->
+    <color name="TextFieldTintColor"> #747470</color>
+    
+    <color name="HistoryListHeaderColor">#f4f9e1</color>
+    <color name="HistoryListTextColor">#afc9d3</color>
+    
+    <color name="MenuHeaderColor">#454642</color>
+    <color name="MenuBackgroundColor">#61625c</color>
+    <color name="MenuDarkBackgroundColor">#4e4e4a</color>
+    <color name="MenuTextColor">#f8fbec</color>
+    <color name="MenuEditActionColor">#8c8e85</color>
+    <color name="MenuShareActionColor">#60b1c5</color>
+    
+    <color name="CircleViewTextColor">#6e7061</color>
+    <color name="CircleViewDarkTextColor">#494a45</color>
+    
+    <color name="UserViewBackgroundColor">#4fabc4</color>
+    <color name="UserViewTextColor">#0d4c66</color>
+    <color name="UserViewSeparatorColor">#6bc4dc</color>
+    
+    <color name="CommentViewBackgroundColor">#d2d5c8</color>
+    <color name="CommentViewTextColor">#a4a797</color>
+    
+    <color name="ProductHashtagCellBorderColor">#d6dac5</color>
+    <color name="ProductHashtagCellTextColor">#b2b5a4</color>
+    <color name="ProductCellBackgroundColor">#e2e7cd</color>
+    <color name="ProductCellTextColor">#676960</color>
+    <color name="ProductListItemCellBackgroundColor">#d4d7c7</color>
+    <!--<color name="ProductListItemCellDarkBackgroundColor">rgba(0.781, 0.785, 0.745, 1)</color>-->
+    <!--<color name="CellTextColor">rgba(0.321, 0.325, 0.306, 1)</color>-->
+    <!--<color name="LightCellTextColor">rgba(0.627, 0.631, 0.588, 1)</color>-->
+    <!--<color name="AmountViewTextColor">rgba(0.322, 0.576, 0.686, 1)</color>-->
+    <!--<color name="AmountViewPointColor">rgba(0.345, 0.373, 0.337, 0.2)</color>-->
+    <color name="InactiveButtonTintColor">#afc9d3</color>
+    
+    <color name="colorPrimary">#c65ea3</color>
+    <color name="colorPrimaryDark">#c65ea3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonLabel">#dadada</color>
+    <color name="colorList">#969191</color>
+    <color name="listOfItems">#716e6e</color>
+    <color name="historyBackground">#354053</color>
+    <color name="history_text_color">#9bb4bf</color>
+    <color name="colorOkButton">#337ab7</color>
+    <color name="colorFB">#3C5A99</color>
+    <color name="colorBulletIcon">#aaac9f</color>
+</resources>

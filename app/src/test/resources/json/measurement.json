@@ -1,0 +1,158 @@
+[
+  {
+    "pmId": 20024,
+    "comment": null,
+    "shortcut": "",
+    "plural": "Runddosen"
+  },
+  {
+    "pmId": 20023,
+    "comment": null,
+    "shortcut": "bag",
+    "plural": "Beutel"
+  },
+  {
+    "pmId": 20015,
+    "comment": null,
+    "shortcut": "bag",
+    "plural": "Tüten"
+  },
+  {
+    "pmId": 20010,
+    "comment": null,
+    "shortcut": "barrel",
+    "plural": "Fass"
+  },
+  {
+    "pmId": 20019,
+    "comment": null,
+    "shortcut": "big",
+    "plural": "große"
+  },
+  {
+    "pmId": 20005,
+    "comment": null,
+    "shortcut": "bottle",
+    "plural": "Flaschen"
+  },
+  {
+    "pmId": 20013,
+    "comment": null,
+    "shortcut": "box",
+    "plural": "Schachteln"
+  },
+  {
+    "pmId": 20017,
+    "comment": null,
+    "shortcut": "bunch",
+    "plural": "Bünde"
+  },
+  {
+    "pmId": 20004,
+    "comment": null,
+    "shortcut": "can",
+    "plural": "Dosen"
+  },
+  {
+    "pmId": 20021,
+    "comment": null,
+    "shortcut": "carton",
+    "plural": "Karton"
+  },
+  {
+    "pmId": 20006,
+    "comment": null,
+    "shortcut": "crate",
+    "plural": "Kisten"
+  },
+  {
+    "pmId": 20009,
+    "comment": null,
+    "shortcut": "cup",
+    "plural": "Becher"
+  },
+  {
+    "pmId": 20025,
+    "comment": null,
+    "shortcut": "dispenser",
+    "plural": "Spender"
+  },
+  {
+    "pmId": 20001,
+    "comment": null,
+    "shortcut": "g",
+    "plural": "g"
+  },
+  {
+    "pmId": 20008,
+    "comment": null,
+    "shortcut": "jar",
+    "plural": "Gläser"
+  },
+  {
+    "pmId": 20000,
+    "comment": null,
+    "shortcut": "kg",
+    "plural": "kg"
+  },
+  {
+    "pmId": 20002,
+    "comment": null,
+    "shortcut": "l",
+    "plural": "l"
+  },
+  {
+    "pmId": 20003,
+    "comment": null,
+    "shortcut": "ml",
+    "plural": "ml"
+  },
+  {
+    "pmId": 20016,
+    "comment": null,
+    "shortcut": "net",
+    "plural": "Netze"
+  },
+  {
+    "pmId": 20012,
+    "comment": null,
+    "shortcut": "pack",
+    "plural": "Pakete"
+  },
+  {
+    "pmId": 20011,
+    "comment": null,
+    "shortcut": "package",
+    "plural": "Packungen"
+  },
+  {
+    "pmId": 20018,
+    "comment": null,
+    "shortcut": "piece",
+    "plural": "Stück"
+  },
+  {
+    "pmId": 20014,
+    "comment": null,
+    "shortcut": "sack",
+    "plural": "Säcke"
+  },
+  {
+    "pmId": 20007,
+    "comment": null,
+    "shortcut": "sixpack",
+    "plural": "Sixpacks"
+  },
+  {
+    "pmId": 20020,
+    "comment": null,
+    "shortcut": "small",
+    "plural": "kleine"
+  },
+  {
+    "pmId": 20022,
+    "comment": null,
+    "shortcut": "tube",
+    "plural": "Tuben"
+  }
+]
